@@ -1,5 +1,5 @@
 body{
-    background-color: blanchedalmond;;
+    background-color: #eee;;
     padding: 0px;
     margin: 0px;;
 }
@@ -8,6 +8,11 @@ body{
     display: flex;
     flex-direction: column;
     gap: 10px;
+    background-color: white;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
    
 }
 
