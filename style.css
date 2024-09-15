@@ -1,0 +1,38 @@
+body{
+    background-color: blanchedalmond;;
+    padding: 0px;
+    margin: 0px;;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   
+}
+
+.menu{
+    background-color: black;
+    height: 40px;
+    color: white;
+}
+
+.banner{
+    background-color: red;;
+    height: 300px;
+}
+
+.products{
+    gap: 10px;
+    display: flex;
+}
+
+.footer{
+    background-color: brown;
+}
+
+.product{
+    flex-grow: 1;
+    background-color: blue;
+    height: 240px;
+}
